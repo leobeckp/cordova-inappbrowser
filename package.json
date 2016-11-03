@@ -1,9 +1,9 @@
 {
   "name": "cordova-inappbrowser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cordova InAppBrowser Plugin",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser",
+    "id": "cordova-inappbrowser",
     "platforms": [
       "android",
       "amazon-fireos",
